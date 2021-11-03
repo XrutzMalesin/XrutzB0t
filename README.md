@@ -26,7 +26,7 @@ Heroku tidak menjamin 24 Jam ya Cuy!
 
 [`Click Disini`](https://github.com/XrutzMalesin/XrutzB0t/blob/master/session.json#L1)
 
-## ADD BUILDPACK
+## BUILDPACK HEROKU
 
 ```
 > https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
