@@ -13,11 +13,21 @@
 <a href="https://github.com/xrutzmalesin/XrutzB0t/network/members"><img title="Forks" src="https://img.shields.io/github/forks/xrutzmalesin/XrutzB0t?color=red&style=flat-square"></a>
 <a href="https://github.com/xrutzmalesin/XrutzB0t/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/xrutzmalesin/XrutzB0t?label=Watchers&color=blue&style=flat-square"></a>
 
-## To Deploy Heroku
+## CHANGE SESSION
+
+[`Click Disini`](https://github.com/XrutzMalesin/XrutzB0t/blob/master/session.json#L1)
+
+## ADD BUILDPACK
+
+```
+> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+```
+
+## DEPLOY HEROKU
 
 [![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fxrutzmalesin%2FXrutzB0t)
 
-## Install via Git
+## INSTALL VIA GIT
 
 ```bash
 > git clone https://github.com/XrutzMalesin/XrutzB0t
@@ -25,7 +35,7 @@
 > npm start
 ```
 
-## Install via Zip :
+## INSTALL VIA ZIP :
 
 ```bash
 > apt upgrade && apt update
@@ -36,9 +46,9 @@
 > npm start
 ```
 
-## Special Thanks to
+## SPECIAL THANKS TO
 * <a href="https://github.com/MhankBarBar"><img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
-## Group Whatsapp
+## GROUP WHATSAPP
 * <a href="https://chat.whatsapp.com/KHHxGNw2NQ1KmVbgEQE9nm"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
