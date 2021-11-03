@@ -28,9 +28,10 @@ Heroku tidak menjamin 24 Jam ya Cuy!
 
 ## BUILDPACK HEROKU
 
-```
+`
+Salin aja Yo =
 > https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-```
+`
 
 ## DEPLOY HEROKU
 
