@@ -22,9 +22,9 @@ Heroku tidak menjamin 24 Jam ya Cuy!
 `
 
 
-## GANTI SESSION
+## SETTING OWNER
 
-[`Click Disini`](https://github.com/XrutzMalesin/XrutzB0t/blob/master/session.json#L1)
+[`Click Disini`](https://github.com/XrutzMalesin/XrutzB0t/blob/master/setting.json#L1)
 
 ## BUILDPACK HEROKU
 
