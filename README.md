@@ -15,9 +15,11 @@
 
 ## NOTICE
 
-`Hallo cuy, Buat ganti session Klik dibawah aja
-Dan kalo mau Deploy Heroku, Add buildpack dulu yang dibawah
-Heroku tidak menjamin 24 Jam ya Cuy!`
+`
+Hallo cuy, Buat ganti session Klik dibawah
+Dan kalo mau Deploy Heroku, Add buildpack dulu
+Heroku tidak menjamin 24 Jam ya Cuy!
+`
 
 
 ## GANTI SESSION
