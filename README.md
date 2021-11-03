@@ -13,7 +13,14 @@
 <a href="https://github.com/xrutzmalesin/XrutzB0t/network/members"><img title="Forks" src="https://img.shields.io/github/forks/xrutzmalesin/XrutzB0t?color=red&style=flat-square"></a>
 <a href="https://github.com/xrutzmalesin/XrutzB0t/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/xrutzmalesin/XrutzB0t?label=Watchers&color=blue&style=flat-square"></a>
 
-## CHANGE SESSION
+## NOTICE
+```
+Hallo cuy, Buat ambil session Klik dibawah aja
+Dan kalo mau Deploy Heroku, Add buildpack dulu yang dibawah
+Heroku tidak menjamin 24 Jam ya Cuy!
+```
+
+## GANTI SESSION
 
 [`Click Disini`](https://github.com/XrutzMalesin/XrutzB0t/blob/master/session.json#L1)
 
