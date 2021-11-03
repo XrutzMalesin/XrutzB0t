@@ -21,7 +21,7 @@
 > npm start
 ```
 
-## Install Termux :
+## Install via Zip :
 
 ```bash
 > apt upgrade && apt update
