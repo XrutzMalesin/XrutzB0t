@@ -13,6 +13,10 @@
 <a href="https://github.com/xrutzmalesin/XrutzB0t/network/members"><img title="Forks" src="https://img.shields.io/github/forks/xrutzmalesin/XrutzB0t?color=red&style=flat-square"></a>
 <a href="https://github.com/xrutzmalesin/XrutzB0t/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/xrutzmalesin/XrutzB0t?label=Watchers&color=blue&style=flat-square"></a>
 
+## To Deploy Heroku
+
+[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fxrutzmalesin%2FXrutzB0t)
+
 ## Install via Git
 
 ```bash
