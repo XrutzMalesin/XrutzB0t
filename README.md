@@ -14,7 +14,7 @@
 <a href="https://github.com/xrutzmalesin/XrutzB0t/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/xrutzmalesin/XrutzB0t?label=Watchers&color=blue&style=flat-square"></a>
 
 ## NOTICE
-```
+```bash
 Hallo cuy, Buat ambil session Klik dibawah aja
 Dan kalo mau Deploy Heroku, Add buildpack dulu yang dibawah
 Heroku tidak menjamin 24 Jam ya Cuy!
@@ -26,7 +26,7 @@ Heroku tidak menjamin 24 Jam ya Cuy!
 
 ## ADD BUILDPACK
 
-```
+```bash
 > https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
 
