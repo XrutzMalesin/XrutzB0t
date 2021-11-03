@@ -16,30 +16,28 @@
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-NO-blue.svg"</a>
 </p>
 
-## Clone this project
+## Install via Git
 
 ```bash
-> git clone https://github.com/MhankBarBar/termux-wabot
-```
-
-## Install Termux :
-```bash
+> git clone https://github.com/XrutzMalesin/XrutzB0t
 > cd XrutzB0t
 > npm start
 ```
 
-### Usage
+## Install Termux :
+
 ```bash
+> apt upgrade && apt update
+> pkg install bash
+> pkg install git
+> cd /sdcard
+> cd XrutzB0t-master
 > npm start
 ```
 
 ## Special Thanks to
+* <a href="https://github.com/MhankBarBar"><img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
-## Group
+## Group Whatsapp
 * <a href="https://chat.whatsapp.com/KHHxGNw2NQ1KmVbgEQE9nm"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-### Donate
-* <a href="https://saweria.co/donate/mhankbarbar"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-* <a href="https://paypal.me/mhankbarbar"><img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
-
